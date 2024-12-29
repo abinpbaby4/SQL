@@ -1,0 +1,2 @@
+DDL Constraints and Operations for MySQL: Sales Database
+This repository demonstrates the use of DDL (Data Definition Language) constraints such as PRIMARY KEY, UNIQUE, and NOT NULL on a table in the Sales database. It also includes DML operations such as INSERT, SELECT, UPDATE, and DELETE.
