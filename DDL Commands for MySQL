@@ -1,0 +1,2 @@
+DDL Commands for MySQL: School Database
+This repository demonstrates the usage of DDL (Data Definition Language) commands in MySQL. The commands include CREATE, ALTER, DROP, RENAME, and TRUNCATE. These operations are performed on a database named School and a table named STUDENT.
